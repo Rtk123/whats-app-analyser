@@ -1,9 +1,0 @@
-streamlit==1.38.0
-matplotlib
-emoji== 2.12.1
-seaborn
-pandas
-urlextract
-nltk==3.6.2
-scikit-learn==1.0.1
-plotly==5.14.1
